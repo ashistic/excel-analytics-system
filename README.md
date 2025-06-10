@@ -69,7 +69,7 @@ The dashboard enables users to:
 
 ## 📬 Contact
 
-For questions, feedback, or collaboration opportunities, feel free to connect with me on [LinkedIn](#) or open an issue in this repo.
+For questions, feedback, or collaboration opportunities, feel free to connect with me on [LinkedIn](www.linkedin.com/in/ashdoesdata) or open an issue in this repo.
 
 ---
 
